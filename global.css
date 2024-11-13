@@ -41,14 +41,38 @@ button{
 .foto1{
     width: 1133px;
     height: 356px;
-    border: 1px solid;
+
     position: absolute;
 top: 160px;
 left: 300px;
+display: flex;
 }
 .us1{
     width: 624px;
 height: 356px;
-border: 1px solid;
-text-align: center;
+font-size: 25px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: white;
+z-index: 1;
+}
+.us2{
+    width: 509px;
+    height: 356px;
+    font-family: Inter;
+font-size: 16px;
+text-underline-position: from-font;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.foto2{
+    width: 1280px;
+    height: 444px;
+    top: 453px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+  position: absolute;  
 }
