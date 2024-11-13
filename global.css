@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 .container{
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
+ 
 }
 .box{
     width: 1440px;
@@ -29,6 +30,7 @@ button{
     width: 180px;
     height: 55px;
     font-size: 18px;
+
 }
 .box1{
     display: flex;
@@ -42,10 +44,9 @@ button{
     width: 1133px;
     height: 356px;
 
-    position: absolute;
-top: 160px;
-left: 300px;
 display: flex;
+padding-top: 50px;
+padding-left: 189px;
 }
 .us1{
     width: 624px;
@@ -71,8 +72,39 @@ justify-content: center;
     width: 1280px;
     height: 444px;
     top: 453px;
-    left: 100px;
+
     gap: 0px;
     opacity: 0px;
-  position: absolute;  
+}
+.foto3{
+    width: 1280px;
+height: 401px;
+background-color: #F4F0F8;
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-left: 80px;
+}
+.ourmision{
+    width: 516px;
+height: 249px;
+font-size: 20px;
+}
+.ourvision{
+    width: 516px;
+    height: 249px;
+    font-size: 20px;
+}
+.hands{
+    width: 1280px;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 200px;
+}
+.text{
+    width: 519px;
+height: 316px;
+padding-top: 50px;
 }
