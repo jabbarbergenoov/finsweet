@@ -616,3 +616,96 @@ color: #232536;
   text-align: center;
   padding-right: 40px;
 }
+.theme9{
+  width: 1440px;
+  height: 560px;
+  background-color: #232536;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.theme9-div{
+  width: 1280px;
+height: 445px;
+
+}
+.theme9-top{
+  width: 1280px;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.item1{
+  display: flex;
+  gap: 24px;
+}
+.style1{
+  color: #ffffff;
+}
+.theme9-button{
+  width: 1280px;
+height: 256px;
+ background-color: #343646;
+ margin-top: 54px;
+ padding-top: 80px;
+ display: flex;
+ justify-content: space-evenly;
+}
+.theme9-span{
+font-family: Sen;
+font-size: 36px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: -2px;
+color: #ffffff;
+margin-right: 120px;
+margin-left: 64px;
+}
+.theme9-input{
+  width: 323px;
+height: 56px;
+border: 1px solid #6D6E76;
+background: #232536;
+color: #6d6e76;
+display: flex;
+justify-content: left;
+align-items: center;
+padding-left: 20px;
+
+}
+.theme9-btn{
+  width: 179px;
+height: 56px;
+background: #FFD050;
+font-family: Sen;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+color: #232536;
+border: none;
+margin-right: 64px;
+}
+.theme9-btnn{
+  width: 1280px;
+  height: 56px;
+ margin-top: 50px;
+ display: flex;
+ justify-content: space-between;
+}
+.theme9-btnn-span{
+  width: 310px;
+height: 56px;
+
+}
+.th9-s{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+color: #ffffff;
+}
+.th9-i{
+  width: 144px;
+height: 16px;
+
+}
