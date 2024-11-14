@@ -215,16 +215,129 @@ margin-top: 10px;
  
 } 
  
-.theme3{ 
+.theme3 { 
   width: 1440px; 
   height: 700px; 
- 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
 } 
-.theme3-div{ 
+.theme3-div { 
   width: 1280px; 
   height: 523px; 
+  background: #f4f0f8; 
+} 
+.theme3-top { 
+  width: 1061px; 
+  height: 23px; 
+} 
+.theme3-top1 { 
+  margin-left: 219px; 
+} 
+.theme3-div-btn { 
+  display: flex; 
+  margin-left: 80px; 
+  margin-top: 96px; 
+  gap: 61px; 
+} 
+.theme3-div-left { 
+  width: 515px; 
+  height: 308px; 
+  padding-right: 30px; 
+} 
+.theme3-div-right { 
+  width: 516px; 
+  height: 248.73px; 
+} 
+.theme3-span1 { 
+  font-family: Inter; 
+  font-size: 16px; 
+  font-weight: 600; 
+  line-height: 20px; 
+  color: #232536; 
+} 
+.theme3-span2 { 
+  color: #232536; 
+  font-family: Sen; 
+  font-size: 36px; 
+  font-weight: 700; 
+  line-height: 48px; 
+  display: block; 
+  margin-bottom: 16px; 
+  margin-top: 24px; 
+} 
+.theme3-span3 { 
+  font-family: Inter; 
+  font-size: 16px; 
+  font-weight: 400; 
+  line-height: 28px; 
+  color: #6d6e76; 
+} 
+.theme3-a { 
+  color: #592ea9; 
+  font-family: Sen; 
+  font-size: 18px; 
+  font-weight: 700; 
+  line-height: 32px; 
+  display: block; 
+  margin-top: 16px; 
+} 
+ 
+/* section4 */ 
+.theme4 { 
+  width: 1440px; 
+  height: 400px; 
   display: flex; 
   justify-content: center; 
   align-items: center; 
  
+} 
+.theme4-div { 
+  width: 1280px; 
+  height: 324px; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+} 
+.theme4-h2{ 
+font-family: Sen; 
+font-size: 36px; 
+font-weight: 700; 
+line-height: 48px; 
+color: #232536; 
+} 
+.theme4-div-top{ 
+margin-top: 10px; 
+display: flex; 
+align-items: center; 
+} 
+.theme4-div-top1{ 
+    width: 296px; 
+height: 228px; 
+padding: 32px; 
+ 
+} 
+.theme4-div-top1:hover{ 
+    background-color: #FFD050; 
+} 
+.theme4-span1{ 
+font-family: Sen; 
+font-size: 28px; 
+font-weight: 700; 
+line-height: 40px; 
+color: #232536; 
+display: block; 
+margin-top: 16px; 
+} 
+.theme4-span2{ 
+font-family: Inter; 
+font-size: 16px; 
+font-weight: 400; 
+line-height: 28px; 
+color: #6D6E76; 
+ 
+} 
+.theme4-divvv{ 
+margin-top: 23px; 
 }
