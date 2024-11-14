@@ -406,3 +406,86 @@ a {
 .theme5-btn:hover .theme5-a {
   color: #ffffff;
 }
+
+.theme6 {
+  width: 1440px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.theme6-div {
+  width: 1280px;
+  height: 420px;
+}
+.theme6-div-top {
+  text-align: center;
+  margin-bottom: 48px;
+}
+.theme6-h2 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  color: #232536;
+}
+.theme6-div-btn {
+  width: 1280px;
+  height: 324px;
+  display: flex;
+  gap: 32px;
+}
+.theme6-btn1 {
+  width: 296px;
+  height: 324px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  padding-top: 40px;
+  background: #f4f4f4;
+
+}
+.theme6-btn1-img {
+  margin-top: -50px;
+  width: 128px;
+  height: 128px;
+  margin-bottom: 20px;
+}
+.theme6-span {
+  font-family: Sen;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+  color: #232536;
+}
+.theme6-p {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  color: #6d6e76;
+}
+.theme6-btn2 {
+  width: 112px;
+  height: 16px;
+  display: flex;
+  gap: 16px;
+  margin-top: 20px;
+}
+.theme6-btnn1{
+  background: #FBF6EA;
+
+} 
+.theme6-btnn{
+  background: #F4F4F4;
+}
+.theme6-button{
+  width: 1280px;
+  height: 52px;
+  margin-top: 96px;
+}
