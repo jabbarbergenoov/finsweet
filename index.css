@@ -48,7 +48,7 @@ a {
   width: 1440px;
   height: 720px;
   border: 1px solid #000;
-  background-image: url(./images/Overlay\ \(1\).png);
+  background-image: url(./images/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png);
 }
 
 .theme1-div {
@@ -446,7 +446,6 @@ a {
   flex-direction: column;
   padding-top: 40px;
   background: #f4f4f4;
-
 }
 .theme6-btn1-img {
   margin-top: -50px;
@@ -494,8 +493,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 200px; 
-
+  margin-top: 200px;
 }
 .theme7-div {
   width: 1280px;
@@ -573,50 +571,49 @@ a {
   justify-content: center;
   align-items: center;
 }
-.theme8-div{
+.theme8-div {
   width: 414px;
   height: 256px;
-
 }
-.theme8-h2{
-font-family: Sen;
-font-size: 36px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: -2px;
-color: #232536;
-margin-bottom: 16px;
+.theme8-h2 {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  color: #232536;
+  margin-bottom: 16px;
 }
-.theme8-span{
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 28px;
-color: #6D6E76;
-margin-bottom: 32px;
-display: block;
+.theme8-span {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #6d6e76;
+  margin-bottom: 32px;
+  display: block;
 }
-.theme8-btn{
+.theme8-btn {
   width: 174px;
-height: 56px;
-background: #FFD050;
-color: #000;
-border: none;
-font-family: Sen;
-font-size: 18px;
-font-weight: 700;
-line-height: 24px;
-color: #232536;
+  height: 56px;
+  background: #ffd050;
+  color: #000;
+  border: none;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #232536;
 }
-.theme8-btn:hover{
+.theme8-btn:hover {
   background-color: #000;
-  color:#FFD050;
+  color: #ffd050;
 }
-.theme8-top{
+.theme8-top {
   text-align: center;
   padding-right: 40px;
 }
-.theme9{
+.theme9 {
   width: 1440px;
   height: 560px;
   background-color: #232536;
@@ -624,88 +621,84 @@ color: #232536;
   justify-content: center;
   align-items: center;
 }
-.theme9-div{
+.theme9-div {
   width: 1280px;
-height: 445px;
-
+  height: 445px;
 }
-.theme9-top{
+.theme9-top {
   width: 1280px;
   height: 30px;
   display: flex;
   justify-content: space-between;
 }
-.item1{
+.item1 {
   display: flex;
   gap: 24px;
 }
-.style1{
+.style1 {
   color: #ffffff;
 }
-.theme9-button{
+.theme9-button {
   width: 1280px;
-height: 256px;
- background-color: #343646;
- margin-top: 54px;
- padding-top: 80px;
- display: flex;
- justify-content: space-evenly;
+  height: 256px;
+  background-color: #343646;
+  margin-top: 54px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: space-evenly;
 }
-.theme9-span{
-font-family: Sen;
-font-size: 36px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: -2px;
-color: #ffffff;
-margin-right: 120px;
-margin-left: 64px;
+.theme9-span {
+  font-family: Sen;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+  color: #ffffff;
+  margin-right: 120px;
+  margin-left: 64px;
 }
-.theme9-input{
+.theme9-input {
   width: 323px;
-height: 56px;
-border: 1px solid #6D6E76;
-background: #232536;
-color: #6d6e76;
-display: flex;
-justify-content: left;
-align-items: center;
-padding-left: 20px;
-
+  height: 56px;
+  border: 1px solid #6d6e76;
+  background: #232536;
+  color: #6d6e76;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding-left: 20px;
 }
-.theme9-btn{
+.theme9-btn {
   width: 179px;
-height: 56px;
-background: #FFD050;
-font-family: Sen;
-font-size: 18px;
-font-weight: 700;
-line-height: 24px;
-color: #232536;
-border: none;
-margin-right: 64px;
+  height: 56px;
+  background: #ffd050;
+  font-family: Sen;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #232536;
+  border: none;
+  margin-right: 64px;
 }
-.theme9-btnn{
+.theme9-btnn {
   width: 1280px;
   height: 56px;
- margin-top: 50px;
- display: flex;
- justify-content: space-between;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
 }
-.theme9-btnn-span{
+.theme9-btnn-span {
   width: 310px;
-height: 56px;
-
+  height: 56px;
 }
-.th9-s{
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 28px;
-color: #ffffff;
+.th9-s {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #ffffff;
 }
-.th9-i{
+.th9-i {
   width: 144px;
-height: 16px;
-
+  height: 16px;
 }
