@@ -47,7 +47,6 @@ a {
 .theme1 {
   width: 1440px;
   height: 720px;
-  border: 1px solid #000;
   background-image: url(./images/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png);
 }
 
@@ -762,12 +761,11 @@ a {
   }
   .theme2{
     width: 320px;
-    height: 1800px;
+    height: 1350px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
-    padding-top: 0;
+    padding-top: 0px;
   }
   .theme2-div{
     display: flex;
@@ -784,6 +782,9 @@ a {
     align-items: center;
     flex-direction: column;
     padding-left: 0;
+  }
+  .theme2-left-h2{
+    margin-left: 0px;
   }
   .theme2-left-img{
     width: 320px;
@@ -821,7 +822,7 @@ a {
   .theme3-div{
     width: 320px;
     height: 500px;
-    margin-top:  0px;
+    margin-top:  80px;
     padding-left: 0;
   }
   .theme3-div-btn{
