@@ -866,4 +866,30 @@ a {
 
     flex-direction: column;
   }
+  .theme5{
+    width: 320px;
+    height: 700px;
+  }
+  .theme5-div{
+    width: 200px;
+    height: 700px;
+    margin-left: 0;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-left: 380px;
+    background-size: 500px 700px;
+  }
+  .theme5-right{
+    width: 320px;
+    padding-left: 10px;
+  }
+  .theme5-right-span{
+    font-size: 30px;
+    line-height: 1;
+  }
+  .theme5-btn{
+    width: 120px;
+    height: 50px;
+  }
 }
