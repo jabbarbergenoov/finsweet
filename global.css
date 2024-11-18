@@ -330,9 +330,16 @@ justify-content: space-around;
     width: 323px;
 height: 56px;
 border: 1px solid ;
-    background-color: #4C4C4C;
-  color: #232536;
+    background-color: #232536;
+  color:  white;
+padding-left: 10px;
 }
 .email{
-    border: 1px solid  #232536 ;
+    border: 1px solid  #F4F0F8;
+}
+.icon-text{
+    color: #FBF6EA;
+}
+.fintown{
+    
 }
